@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\C# tasks\Collection of Population of Countries\Collection of Population of Countries\bin\Debug\netcoreapp3.1\Collection of Population of Countries.exe
+C:\Users\ASUS\Desktop\C# tasks\Collection of Population of Countries\Collection of Population of Countries\bin\Debug\netcoreapp3.1\Collection of Population of Countries.deps.json
+C:\Users\ASUS\Desktop\C# tasks\Collection of Population of Countries\Collection of Population of Countries\bin\Debug\netcoreapp3.1\Collection of Population of Countries.runtimeconfig.json
+C:\Users\ASUS\Desktop\C# tasks\Collection of Population of Countries\Collection of Population of Countries\bin\Debug\netcoreapp3.1\Collection of Population of Countries.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\C# tasks\Collection of Population of Countries\Collection of Population of Countries\bin\Debug\netcoreapp3.1\Collection of Population of Countries.dll
+C:\Users\ASUS\Desktop\C# tasks\Collection of Population of Countries\Collection of Population of Countries\bin\Debug\netcoreapp3.1\Collection of Population of Countries.pdb
+C:\Users\ASUS\Desktop\C# tasks\Collection of Population of Countries\Collection of Population of Countries\obj\Debug\netcoreapp3.1\Collection of Population of Countries.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C# tasks\Collection of Population of Countries\Collection of Population of Countries\obj\Debug\netcoreapp3.1\Collection of Population of Countries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\C# tasks\Collection of Population of Countries\Collection of Population of Countries\obj\Debug\netcoreapp3.1\Collection of Population of Countries.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\C# tasks\Collection of Population of Countries\Collection of Population of Countries\obj\Debug\netcoreapp3.1\Collection of Population of Countries.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\C# tasks\Collection of Population of Countries\Collection of Population of Countries\obj\Debug\netcoreapp3.1\Collection of Population of Countries.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C# tasks\Collection of Population of Countries\Collection of Population of Countries\obj\Debug\netcoreapp3.1\Collection of Population of Countries.dll
+C:\Users\ASUS\Desktop\C# tasks\Collection of Population of Countries\Collection of Population of Countries\obj\Debug\netcoreapp3.1\Collection of Population of Countries.pdb
+C:\Users\ASUS\Desktop\C# tasks\Collection of Population of Countries\Collection of Population of Countries\obj\Debug\netcoreapp3.1\Collection of Population of Countries.genruntimeconfig.cache
